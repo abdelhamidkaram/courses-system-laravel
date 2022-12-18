@@ -1,0 +1,46 @@
+
+body , html , h3 , h1 , h2 ,h4, h5,h6 {
+    font-family : "Cairo" , sans-serif;  
+}
+body {
+background-color: #fafdff;
+}
+
+h3{
+    color: #ec5d2a;
+    font-weight: bold;
+}
+
+a{
+    color: #ec5d2a;
+    
+}
+label{
+    color: #0b2544;
+}
+.uk-button-primary{
+    background-color: #0b2544;
+    border-radius: 25px;
+    
+}
+.uk-button-primary:hover{
+    background-color: #ec5d2a;
+    color: #0b2544;
+    
+}
+
+#navbar{
+    background-color: #0b2544;  
+}
+#logo{
+    color: #ec5d2a;
+}
+
+.circular--square { border-top-left-radius: 50% 50%; border-top-right-radius: 50% 50%; border-bottom-right-radius: 50% 50%; border-bottom-left-radius: 50% 50%; }
+
+#footer {
+
+    background-color: #cceafa;
+    border-top: 1px solid #e5e5e5;
+  }
+
